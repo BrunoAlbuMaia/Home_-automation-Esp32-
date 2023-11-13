@@ -69,7 +69,7 @@ Se você já tem o ESP32 configurado na sua IDE do Arduino, siga estas etapas si
    ```cpp
    const char* baseUrl = "http://seu_endereco_da_api_aqui/";
 Nessa linha acima, você irá colocar o endereço da API Criada, Se você ainda não possui uma API configurada, siga estas etapas passadas nesse repositório
-[Link API](https://github.com/BrunoAlbuMaia/Home_-automation-Esp32-/blob/Master/sketch.ino)
+[Link API](https://github.com/BrunoAlbuMaia/APIHome_automation)
 
 3. Verifique se as configurações do modelo de placa estão corretas. Selecione "ESP32 Dev Module" em `Tools` -> `Board`.
 
