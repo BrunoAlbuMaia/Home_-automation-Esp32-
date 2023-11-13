@@ -58,6 +58,7 @@ O código fonte para o ESP32 está disponível no arquivo [sketch.ino](https://g
  deste repositório. Certifique-se de seguir as etapas abaixo para carregar o código na placa:
 
 ## Configuração do Ambiente de Desenvolvimento (IDE Arduino)
+Caso você ainda nao tenha o Esp32 configurado na IDE do Arduino, siga os passos deste [LINK](https://www.crescerengenharia.com/post/instalando-esp32-arduino).
 
 Se você já tem o ESP32 configurado na sua IDE do Arduino, siga estas etapas simples para carregar o código fonte:
 
