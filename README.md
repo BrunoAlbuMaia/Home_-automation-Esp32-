@@ -17,7 +17,7 @@ O projeto de Automação Residencial com ESP32 propõe uma solução inteligente
 ![Sensor PIR (Detector) de Movimento](https://github.com/BrunoAlbuMaia/Home_-automation-Esp32-/blob/Master/img/Sensor%20de%20Movimento.png?raw=true)
     
     Sensor Ultrassonico:
-        O sensor ultrassônico é utilizado para medir o nível da caixa d'água, oferecendo uma visão precisa e em tempo real do consumo hídrico.
+        O sensor ultrassônico é utilizado para medir o nível da caixa d'água, oferecendo uma visão precisa e em tempo real da quantidade hídrico.
 
 ![App Screenshot](https://github.com/BrunoAlbuMaia/Home_-automation-Esp32-/blob/Master/img/Sensor%20Ultrassonico.png?raw=true)
 
